@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="large_text">18sp</dimen>
+    <dimen name="medium_text">13sp</dimen>
+    <dimen name="channel_poster_size">180dp</dimen>
+
+    <dimen name="content_inset_less">12dp</dimen>
+    <dimen name="content_inset">16dp</dimen>
+    <dimen name="content_inset_more">24dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <dimen name="card_sides_margin">1.41dp</dimen>
+    <dimen name="card_vertical_margin">0.41dp</dimen>
+
+</resources>

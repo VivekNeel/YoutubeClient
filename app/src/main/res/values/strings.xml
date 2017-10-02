@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">YouTubeClient</string>
+
+    <string name="category">Youtube</string>
+    <string name="cateogry_playlist">Playlist</string>
+    <string name="category_latestvideo">Latest Videos</string>
+    <string name="category_social">Social</string>
+    <string name="category_website">Official Website</string>
+
+
+    <string name="item_facebook">Facebook</string>
+    <string name="item_twitter">Twitter</string>
+    <string name="item_instagram">Instagram</string>
+    <string name="item_gplus">Google plus</string>
+    <string name="item_website">LetsGoShiva</string>
+    <string name="item_photos">Travel Photos</string>
+
+</resources>
